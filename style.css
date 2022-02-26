@@ -164,6 +164,6 @@ body{
     border-color: white;
 }
 
-.winning-msg .show {
+.winning-msg.show {
     display: flex;
 }
